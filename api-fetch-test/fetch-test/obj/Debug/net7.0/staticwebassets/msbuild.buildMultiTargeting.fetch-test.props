@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\fetch-test.props" />
+</Project>
